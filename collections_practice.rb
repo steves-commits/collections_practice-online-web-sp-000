@@ -39,7 +39,8 @@ def kesha_maker(array)
   
   def sum_array(array)
     sum = 0 
-    
+    array.each do |num|
+      
     
 
   
