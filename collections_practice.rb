@@ -46,8 +46,8 @@ def kesha_maker(array)
 end
 
 def add_s(array)
-  
-  
+  array.collect do |word|
+    
   
     
     
