@@ -45,6 +45,8 @@ def kesha_maker(array)
   sum 
 end
 
+def add_s(array)
+  
   
   
     
