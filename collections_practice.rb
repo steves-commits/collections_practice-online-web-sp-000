@@ -42,7 +42,10 @@ def kesha_maker(array)
     array.each do |num|
       sum+=num
     end
-  end
+  sum 
+end
+
+  
   
     
     
