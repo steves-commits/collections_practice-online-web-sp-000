@@ -35,6 +35,9 @@ def kesha_maker(array)
     array.select do |word|
       word[0] == "a"
     end
+  end
+  
+  
     
 
   
